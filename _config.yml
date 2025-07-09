@@ -1,4 +1,23 @@
 yaml
 
 title: Az én blogom
+author: Bagó Zoltán
+email: bagozoltan1982@gmail.com
+description: Egy kalandos blog mindenről, ami érdekel.
+baseurl: "zoltanbago.github.io" 
+url: "https://zoltanbago.github.io"
+
 theme: minima
+
+show_excerpts: true
+minima:
+  social_links:
+    github: zoltanbago
+    rss: rss
+  skin: classic
+
+# Menüpontok
+header_pages:
+  - index.md
+  - about.md
+
