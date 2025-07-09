@@ -1,2 +1,2 @@
-# zoltanbago.github.io
-Blog
+# A blogom címsora
+A blog szövegtörzse
