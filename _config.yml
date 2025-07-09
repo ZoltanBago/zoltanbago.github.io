@@ -7,7 +7,7 @@ description: Egy kalandos blog mindenről, ami érdekel.
 baseurl: "zoltanbago.github.io" 
 url: "https://zoltanbago.github.io"
 
-theme: minima
+theme: jekyll-theme-cayman
 
 show_excerpts: true
 minima:
