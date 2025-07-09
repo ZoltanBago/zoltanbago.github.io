@@ -12,7 +12,7 @@ theme: jekyll-theme-cayman
 show_excerpts: true
 minima:
   social_links:
-    github: zoltanbago
+    github: zoltanbago.github.io
     rss: rss
   skin: classic
 
