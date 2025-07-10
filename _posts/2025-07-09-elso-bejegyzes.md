@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Első bejegyzésem"
+title: "Első blogposztom"
 date: 2025-07-09
+categories: [gondolatok]
 ---
-Ez az első bejegyzésem GitHub Pages alatt.
+
+Ez itt az első bejegyzésem. A GitHub Pages működik!
