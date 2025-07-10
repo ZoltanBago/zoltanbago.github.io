@@ -4,6 +4,6 @@ title: Rólam
 permalink: /about/
 ---
 
-# Ki vagyok én?
+# Rólam
 
-Egy kíváncsi ember, aki szeret írni, kalandozni és felfedezni.
+Ez egy próba oldal egy GitHub-os bloghoz.
