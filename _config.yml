@@ -1,21 +1,10 @@
-title: Az én blogom
+title: A blogom
 author: Bagó Zoltán
-email: bagozoltan1982@gmail.com
-description: Egy kalandos blog mindenről, ami érdekel.
-baseurl: "zoltanbago.github.io" 
-url: "https://zoltanbago.github.io"
-
+description: Egy letisztult, statikus blog
 theme: minima
-
 show_excerpts: true
-minima:
-  social_links:
-    github: zoltanbago.github.io
-    rss: rss
-  skin: classic
 
-# Menüpontok
+# Menü (Pages szekcióban jelenik meg)
 header_pages:
   - index.md
   - about.md
-
