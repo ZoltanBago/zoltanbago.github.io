@@ -1,6 +1,8 @@
 ---
 layout: home
+title: Főoldal
 ---
 
-# Üdvözöllek a blogomon!
-Itt jelennek majd meg a bejegyzéseim.
+# Üdv a blogomon!
+
+Itt találod a legfrissebb bejegyzéseimet.
