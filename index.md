@@ -3,5 +3,5 @@
 Ez itt az én GitHub Pages oldalam, Cayman témával.
 
 ## Projektek
-- [Eurostat Population Density]([https://github.com/felhasznalonev/projekt1](https://github.com/ZoltanBago/eurostat-population-density)
+- [Eurostat Population Density](https://github.com/ZoltanBago/eurostat-population-density)
 - [Projekt 2](https://github.com/felhasznalonev/projekt2)
